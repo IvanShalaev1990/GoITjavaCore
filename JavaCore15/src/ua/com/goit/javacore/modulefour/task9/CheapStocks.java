@@ -1,7 +1,5 @@
 package ua.com.goit.javacore.modulefour.task9;
 
-import java.util.Arrays;
-
 public class CheapStocks {
     public String getCheapStocks(String[] stocks){
         StringBuilder sb = new StringBuilder();
